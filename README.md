@@ -1,6 +1,8 @@
 # Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections
 
-*Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections (Collaging through Space and Time)* is an interactive collage tool that allows users to "cut" subjects and objects from images and "paste" them unto a series of pre-selected backgrounds. All images in the current iteration of *Collaging through Space and Time* are taken from the following collections:
+*Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections (Collaging through Space and Time)* is an [interactive collage tool](https://libraryofcongress.github.io/collaging-space-time/) that allows users to "cut" subjects and objects from images and "paste" them unto a series of pre-selected backgrounds. It was created by Library of Congress 2024 [Junior Fellows](https://www.loc.gov/programs/of-the-people/learn/junior-fellows-internship/) Ilayda Dogan, Shauna-Kay Harrison, and Aisaiah Pellecer in collaboration with [LC Labs](https://labs.loc.gov/).
+
+All images in the current iteration of *Collaging through Space and Time* are taken from the following collections:
 * [National Photo Company Collection](https://www.loc.gov/collections/national-photo-company/)
 * [Carol M. Highsmith Archive Collection](https://www.loc.gov/collections/carol-m-highsmith/)
 * [Free to Use and Reuse Collection](https://www.loc.gov/free-to-use/)
@@ -26,7 +28,7 @@ For more information on our collection development policies and decisions, see [
 
 ## Overview
 
-*Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections* (*Collaging through Space and Time*) is an interactive collage tool that encourages self-directed learning and educational play, allowing students to explore the Washington, D.C. area’s communal history through creative expression.
+*Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections* (*Collaging through Space and Time*) is an [interactive collage tool](https://libraryofcongress.github.io/collaging-space-time/) that encourages self-directed learning and educational play, allowing students to explore the Washington, D.C. area’s communal history through creative expression.
 
 ### Audience
 
